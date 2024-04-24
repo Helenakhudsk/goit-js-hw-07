@@ -121,9 +121,8 @@ color: #fff;
 }
 /*------------------ task-5----------------- */
 .widget{
-  width: 345px;
-  height: 280px;
-  padding: 100px 88px;
+  text-align: center;
+  margin-top: 350px;
 }
 .widget > p{
   font-weight: 400;
